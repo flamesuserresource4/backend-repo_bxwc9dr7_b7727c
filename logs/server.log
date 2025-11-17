@@ -9,3 +9,7 @@ INFO:     172.20.0.1:59504 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:59526 - "GET /api/players HTTP/1.1" 200 OK
 INFO:     172.20.0.1:59516 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:59528 - "GET /api/players HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39814 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43158 - "GET /api/players HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43164 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43170 - "GET /api/players HTTP/1.1" 200 OK
